@@ -11,7 +11,7 @@ Il progetto segue il framework di analisi **Ask → Prepare → Process → Anal
 ## Contenuto del repository
 
 - `cyclistic_case_study.ipynb` → notebook Jupyter con tutto il codice dell'analisi
-- `cyclistic_presentazione_v5.pptx` → presentazione del progetto (vedi sezione sotto)
+- `cyclistic_presentazione.pptx` → presentazione del progetto (vedi sezione sotto)
 - `Case Study 1_ How does a bike-share navigate speedy success.pdf` → traccia originale del corso
 
 ## Librerie principali
@@ -31,7 +31,7 @@ Il progetto segue il framework di analisi **Ask → Prepare → Process → Anal
 
 ## Presentazione
 
-Il file `cyclistic_presentazione_v5.pptx` contiene una presentazione strutturata del progetto, pensata per un pubblico di business (es. portfolio LinkedIn).
+Il file `cyclistic_presentazione.pptx` contiene una presentazione strutturata del progetto, pensata per un pubblico di business (es. portfolio LinkedIn).
 
 Include:
 - Business Task e contesto
